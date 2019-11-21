@@ -1,0 +1,11 @@
+commit 2f8efdd20a0a42e375a9c4cfc5662179b98b2df5
+Author: Korisnik <Korisnik@ODJ-O359-111.intra.uniri.hr>
+Date:   Thu Nov 14 15:17:11 2019 +0100
+
+    hello world with a !
+
+commit 5f74c6be26439ebea92428c9e0fc36b0ec038185
+Author: Nikolina1 <34041346+Nikolina1@users.noreply.github.com>
+Date:   Thu Nov 14 14:45:55 2019 +0100
+
+    Initial commit
